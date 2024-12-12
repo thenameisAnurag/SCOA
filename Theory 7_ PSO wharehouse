@@ -1,6 +1,6 @@
 
 ### 1. **Theory**
-
+http://spring-boot-app-925354215034.us-east4.run.app/plantuml/936e3897-df4d-44e2-80ea-0ece13837207.png
 **Particle Swarm Optimization (PSO)** is a nature-inspired optimization technique based on the social behavior of birds flocking or fish schooling. It is used to solve optimization problems by having a group of candidate solutions (particles) move around the solution space to find the best solution.
 
 #### **Why PSO Works?**
